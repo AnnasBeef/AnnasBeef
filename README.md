@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Anna welcome to my Beef page. <br>I am in 3B System Design Engineering at University of Waterloo. <br><br>I will create a project about Beef and cats. <br><br>
+Hello my name is Anna welcome to my Beef page. <br>I am in 4B System Design Engineering at University of Waterloo. <br><br>I will create a project about Beef and cats. <br><br>
 
 
 ## 🌐 Socials:
